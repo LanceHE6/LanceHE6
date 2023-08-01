@@ -19,7 +19,6 @@
 
 <h1 align="center">✨Hey, welcome to my GitHub profile💕</h1>
 
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -27,6 +26,8 @@
 ###
 
 <p align="left">I'm Lance from Chongqing University Of Posts And Telecommunications<br><br>- 📚 I'm currently learning c/c++, java, js, css, html, python, docker...<br>- ⚡ In my free time I like to coding and playing games.</p>
+
+<a href="http://hycerlance.site">📖BLOG</a>
 
 ###
 
