@@ -31,7 +31,7 @@
 
 <p align="left">I'm Lance from Chongqing University Of Posts And Telecommunications<br><br>- 📚 I'm currently learning c/c++, java, js, css, html, python, docker...<br>- ⚡ In my free time I like to coding and playing games.</p>
 
-<a href="http://hycerlance.site">📖BLOG</a>
+<a href="http://blog.hycerlance.fun">📖BLOG</a>
 
 ###
 
