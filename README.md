@@ -29,9 +29,9 @@
 
 ###
 
-<p align="left">I'm Lance from Chongqing University Of Posts And Telecommunications<br><br>- 📚 I'm currently learning c/c++, java, js, css, html, python, docker...<br>- ⚡ In my free time I like to coding and playing games.</p>
+<p align="left">I'm Lance from Chongqing University Of Posts And Telecommunications<br><br>- 📚 I enjoy working in backend development and have knowledge of technology stacks such as Go, Java, Python, Vue, React, Docker, and more<br>- ⚡ In my free time I like to coding and playing games.</p>
 
-<a href="http://blog.hycerlance.fun">📖BLOG</a>
+<a href="http://blog.hycer.cn">📖BLOG</a>
 
 ###
 
@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
